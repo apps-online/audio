@@ -1,0 +1,4 @@
+sound_fonts/jc_live.sf2 filter=lfs diff=lfs merge=lfs -text
+sound_fonts/the_absolute_sega_fm_soundfont_v1.75.sf2 filter=lfs diff=lfs merge=lfs -text
+sound_fonts/upright_piano_kw_20220221.sf2 filter=lfs diff=lfs merge=lfs -text
+sound_fonts/ydp_grand_piano_20160804.sf2 filter=lfs diff=lfs merge=lfs -text
